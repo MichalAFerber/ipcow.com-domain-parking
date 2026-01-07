@@ -2,7 +2,7 @@
 
 ![Parked Domain Preview](assets/parked-preview.png)
 
-![Cloudflare Pages](https://img.shields.io/badge/Deployed_on-Cloudflare_Pages-?logo=cloudflare)
+![Cloudflare Pages](https://img.shields.io/badge/Deployed_on-Cloudflare_Pages?logo=cloudflare)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MichalAFerber/ipcow.com-domain-parking?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/MichalAFerber/ipcow.com-domain-parking?style=social)
 ![License](https://img.shields.io/github/license/MichalAFerber/ipcow.com-domain-parking)
