@@ -82,7 +82,7 @@ Example verbiage in `index.html`:
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to fork and reuse.
-See the `LICENSE` file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -91,6 +91,6 @@ See the `LICENSE` file for details.
 Created and maintained by: **Michal Ferber**
 Also known as: **TechGuyWithABeard**
 
-🌐 Blog & Portfolio: michalferber.me
-🐄 Domain services: ipcow.com
-📍 All domains park here: park.ipcow.com
+- 🌐 Blog & Portfolio: michalferber.me
+- 🐄 Domain services: ipcow.com
+- 📍 All domains park here: park.ipcow.com
