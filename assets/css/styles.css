@@ -61,7 +61,7 @@ body::before {
 #footer a, #footer-copyright a {
     color: white;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0;
 }
 
 #footer a:hover, #footer-copyright a:hover {
