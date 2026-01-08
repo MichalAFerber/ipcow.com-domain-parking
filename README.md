@@ -1,6 +1,6 @@
 # IP Cow — Domain Parking Template
 
-![Parked Domain Preview](assets/parked-preview.png)
+![Parked Domain Preview](screenshot.png)
 
 ![Cloudflare Pages](https://img.shields.io/badge/Deployed_on-Cloudflare_Pages?logo=cloudflare)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MichalAFerber/ipcow.com-domain-parking?style=social)
