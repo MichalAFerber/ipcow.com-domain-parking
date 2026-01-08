@@ -16,18 +16,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" 
+        href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Google+Sans+Code:wght@400;500&display=swap">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Google+Sans+Code:wght@400;500;600;700&display=swap">
 </head>
 
 <body>
     <div class="theme-toggle" id="themeToggle" title="Toggle dark mode"
-        style="position: fixed !important; top: 20px !important; right: 40px !important; z-index: 1000 !important;">
-    </div>
+        style="position: fixed !important; top: 20px !important; right: 40px !important; z-index: 1000 !important;"></div>
     <header onclick="window.location.href='/'" style="cursor:pointer;">
-        <h1><img src="/assets/favicon/apple-touch-icon.png" width="32px" height="32px" alt="Cow Head"> IP Cow <img
-                src="/assets/favicon/cow.png" width="40px" height="40px" alt="Cow"></h1>
-        <h2>30-Year Anniversary — Est. 1995</h2>
+        <h1 class="fredericka-the-great-medium">IP Cow</h1>
+        <h2 class="fredericka-the-great-regular">
+            <img src="/assets/favicon/apple-touch-icon.png" width="28px" height="28px" alt="Cow Head">
+            30-Year Anniversary — Est. 1995
+            <img src="/assets/favicon/cow.png" width="38px" height="38px" alt="Cow">
+        </h2>
     </header>
 
     <div class="wrapper">
@@ -62,7 +66,7 @@
 
         <div style="text-align: center; margin-top: 20px;">
             <button id="export-btn"
-                style="padding: 8px 16px; background: var(--progress-success); color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9em;"
+                style="background: var(--progress-success); color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 1em;"
                 onclick="window.open('https://ipcow.com', '_blank')">
                 IPCow.com <i class="fa-solid fa-arrow-up-right-from-square"></i>
             </button>
@@ -71,11 +75,11 @@
     </div>
 
     <footer>
-        <p id="footer" class="text-center mt-4">
-            <a href="https://ipcow.com/privacy/" target="_blank">Privacy Policy</a> | 
-            <a href="https://ipcow.com/terms/" target="_blank">Terms of Service</a> | 
-            <a href="https://ipcow.com/dmca/" target="_blank">DMCA</a></p>
-        <p id="footer-copyright" class="text-center"></p>
+        <p id="footer">
+            <a href="https://ipcow.com/privacy/">Privacy Policy</a> | 
+            <a href="https://ipcow.com/terms/">Terms of Service</a> | 
+            <a href="https://ipcow.com/dmca/">DMCA</a></p>
+        <p id="footer-copyright"></p>
     </footer>
 
     <script async src="/assets/js/ipcow-park.js"></script>
